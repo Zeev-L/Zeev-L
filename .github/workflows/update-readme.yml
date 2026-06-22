@@ -1,7 +1,7 @@
 name: Update profile README
 
 # Refreshes the auto-generated repository list in README.md.
-on:
+"on":
   schedule:
     - cron: "17 5 * * *"   # daily ~05:17 UTC
   workflow_dispatch: {}      # manual "Run workflow" button
