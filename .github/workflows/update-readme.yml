@@ -1,0 +1,41 @@
+name: Update profile README
+
+# Refreshes the auto-generated repository list in README.md.
+on:
+  schedule:
+    - cron: "17 5 * * *"   # daily ~05:17 UTC
+  workflow_dispatch: {}      # manual "Run workflow" button
+  push:
+    branches: [main]
+    paths:
+      - scripts/generate-readme.sh
+      - .github/workflows/update-readme.yml
+
+permissions:
+  contents: write            # allow committing the updated README
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Regenerate repo list
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PROFILE_USER: ${{ github.repository_owner }}
+        run: |
+          chmod +x scripts/generate-readme.sh
+          ./scripts/generate-readme.sh README.md
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet -- README.md; then
+            git add README.md
+            git commit -m "chore: refresh repository list"
+            git push
+          else
+            echo "No changes."
+          fi
