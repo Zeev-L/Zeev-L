@@ -14,10 +14,11 @@ skills/marketplaces, and PM workflows. I like turning rough ideas into working t
 
 <!-- REPOS:START -->
 
-**11 public repositories** · sorted by latest activity · updated automatically
+**12 public repositories** · sorted by latest activity · updated automatically
 
 | Repo | What it is | Lang | Updated | ⭐ |
 |------|------------|------|---------|----|
+| [Zeev-L](https://github.com/Zeev-L/Zeev-L) | Profile README | Shell | 2026-06-22 | 0 |
 | [lemonade-complexity-analyzer](https://github.com/Zeev-L/lemonade-complexity-analyzer) | CLI that uses LLMs to score the complexity of GitHub pull requests — fairer engineering-velocity signal than lines of code. | Python | 2026-06-22 | 0 |
 | [yan-yanko-rainman](https://github.com/Zeev-L/yan-yanko-rainman) | Rainman — local, zero-token, context-aware project memory for AI coding tools (MCP + Claude Code hooks). | Python | 2026-06-22 | 0 |
 | [omri-a.-cc-stuff](https://github.com/Zeev-L/omri-a.-cc-stuff) | Omri Ariav's Claude Code commands & utilities (mirror for my Claude Code marketplace). | Python | 2026-06-22 | 0 |
