@@ -14,16 +14,18 @@ skills/marketplaces, and PM workflows. I like turning rough ideas into working t
 
 <!-- REPOS:START -->
 
-**15 public repositories** · sorted by latest activity · updated automatically
+**17 public repositories** · sorted by latest activity · updated automatically
 
 | Repo | What it is | Lang | Updated | ⭐ |
 |------|------------|------|---------|----|
+| [claude-status-monitor](https://github.com/Zeev-L/claude-status-monitor) | macOS menu-bar indicator for parallel Claude Code sessions: red=working, orange=waiting, green=done. Built on Claude Code hooks + SwiftBar. | Python | 2026-07-01 | 0 |
+| [claude-hebrew-support](https://github.com/Zeev-L/claude-hebrew-support) | Automatic Hebrew/Arabic RTL support for Claude Desktop (macOS) and claude.ai web — one shared detection payload, two delivery pipes. | Shell | 2026-07-01 | 0 |
+| [the-mic](https://github.com/Zeev-L/the-mic) | Personal automation scripts — Gmail→Sheets task manager | HTML | 2026-06-30 | 0 |
+| [morning-brief](https://github.com/Zeev-L/morning-brief) | — | JavaScript | 2026-06-30 | 0 |
 | [claude-jump](https://github.com/Zeev-L/claude-jump) | — | HTML | 2026-06-30 | 0 |
-| [Zeev-L](https://github.com/Zeev-L/Zeev-L) | Profile README | Shell | 2026-06-29 | 0 |
-| [claude-status-monitor](https://github.com/Zeev-L/claude-status-monitor) | macOS menu-bar indicator for parallel Claude Code sessions: red=working, orange=waiting, green=done. Built on Claude Code hooks + SwiftBar. | Python | 2026-06-29 | 0 |
-| [the-mic](https://github.com/Zeev-L/the-mic) | Personal automation scripts — Gmail→Sheets task manager | HTML | 2026-06-28 | 0 |
+| [Zeev-L](https://github.com/Zeev-L/Zeev-L) | Profile README | Shell | 2026-06-30 | 0 |
 | [marketingskills](https://github.com/Zeev-L/marketingskills) | Corey Haines' SaaS marketing skills (mirror of coreyhaines31/marketingskills.git for my Claude Code marketplace) | JavaScript | 2026-06-26 | 0 |
-| [claude-hebrew-support](https://github.com/Zeev-L/claude-hebrew-support) | Automatic Hebrew/Arabic RTL support for Claude Desktop (macOS) and claude.ai web — one shared detection payload, two delivery pipes. | Shell | 2026-06-25 | 0 |
+| [helm](https://github.com/Zeev-L/helm) | Helm — multi-project management app (Google Apps Script + Sheets) | HTML | 2026-06-30 | 0 |
 | [omri-a.-cc-stuff](https://github.com/Zeev-L/omri-a.-cc-stuff) | Omri Ariav's Claude Code commands & utilities (mirror for my Claude Code marketplace). | Python | 2026-06-25 | 0 |
 | [skills-marketplace](https://github.com/Zeev-L/skills-marketplace) | Personal Claude Code skill marketplace — 221 skills across 18 plugins. Browse the catalog → https://zeev-l.github.io/playground/ | Python | 2026-06-25 | 0 |
 | [yan-yanko-rainman](https://github.com/Zeev-L/yan-yanko-rainman) | Rainman — local, zero-token, context-aware project memory for AI coding tools (MCP + Claude Code hooks). | Python | 2026-06-25 | 0 |
