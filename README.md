@@ -18,15 +18,15 @@ skills/marketplaces, and PM workflows. I like turning rough ideas into working t
 
 | Repo | What it is | Lang | Updated | ⭐ |
 |------|------------|------|---------|----|
-| [my-toolbox](https://github.com/Zeev-L/my-toolbox) | Bilingual (HE/EN) landing page for the tools I install + a live view of my GitHub repos. → https://zeev-l.github.io/my-toolbox/ | HTML | 2026-07-21 | 0 |
-| [news-ticker](https://github.com/Zeev-L/news-ticker) | macOS breaking-news ticker — translucent, click-through, draggable bar streaming Israeli news RSS | JavaScript | 2026-07-21 | 0 |
-| [rega](https://github.com/Zeev-L/rega) | רגע — a quiet macOS menu-bar companion for work-confidence: vision, mantra, strengths, gratitude, and an automatic evening gratitude email. | JavaScript | 2026-07-20 | 0 |
-| [Zeev-L](https://github.com/Zeev-L/Zeev-L) | Profile README | Shell | 2026-07-20 | 0 |
+| [my-toolbox](https://github.com/Zeev-L/my-toolbox) | Bilingual (HE/EN) landing page for the tools I install + a live view of my GitHub repos. → https://zeev-l.github.io/my-toolbox/ | HTML | 2026-07-22 | 0 |
+| [news-ticker](https://github.com/Zeev-L/news-ticker) | macOS breaking-news ticker — translucent, click-through, draggable bar streaming Israeli news RSS | JavaScript | 2026-07-22 | 0 |
+| [focus-timer](https://github.com/Zeev-L/focus-timer) | A small floating focus-timer disc for macOS — glassy, always-on-top, warms in color and counts overtime when you drift past your block. | JavaScript | 2026-07-21 | 0 |
+| [rega](https://github.com/Zeev-L/rega) | רגע — a quiet macOS menu-bar companion for work-confidence: vision, mantra, strengths, gratitude, and an automatic evening gratitude email. | JavaScript | 2026-07-21 | 0 |
+| [Zeev-L](https://github.com/Zeev-L/Zeev-L) | Profile README | Shell | 2026-07-21 | 0 |
 | [marketingskills](https://github.com/Zeev-L/marketingskills) | Corey Haines' SaaS marketing skills (mirror of coreyhaines31/marketingskills.git for my Claude Code marketplace) | JavaScript | 2026-07-17 | 0 |
 | [claude-morning-brief](https://github.com/Zeev-L/claude-morning-brief) | Automatic weekday-morning email digest of your parallel Claude Code sessions — what got done, where each stopped, next step — with a one-click "reopen session" button. | JavaScript | 2026-07-16 | 0 |
 | [retzef](https://github.com/Zeev-L/retzef) | רצף · Retzef — a quiet menu-bar memory for people who switch a lot. Passively remembers your work threads and gives a clean glance back + daily focus read. Local-only, no screenshots. | JavaScript | 2026-07-15 | 0 |
 | [bridge](https://github.com/Zeev-L/bridge) | Private local command-center home page tying together my daily tools, learning, tasks, projects and repos. Bilingual, drag-to-reorder. Local only. | HTML | 2026-07-15 | 0 |
-| [focus-timer](https://github.com/Zeev-L/focus-timer) | A small floating focus-timer disc for macOS — glassy, always-on-top, warms in color and counts overtime when you drift past your block. | JavaScript | 2026-07-14 | 0 |
 | [worktime-blocker](https://github.com/Zeev-L/worktime-blocker) | Soft, self-controlled work-hours website blocker — a Chrome extension (MV3). You decide whether to continue. | HTML | 2026-07-14 | 0 |
 | [learning-os](https://github.com/Zeev-L/learning-os) | מערכת למידה מקצועית אישית — Learning OS | JavaScript | 2026-07-14 | 0 |
 | [the-mic](https://github.com/Zeev-L/the-mic) | Personal automation scripts — Gmail→Sheets task manager | HTML | 2026-07-14 | 1 |
