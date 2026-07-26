@@ -18,7 +18,7 @@ skills/marketplaces, and PM workflows. I like turning rough ideas into working t
 
 | Repo | What it is | Lang | Updated | ⭐ |
 |------|------------|------|---------|----|
-| [Zeev-L](https://github.com/Zeev-L/Zeev-L) | Profile README | Shell | 2026-07-24 | 0 |
+| [Zeev-L](https://github.com/Zeev-L/Zeev-L) | Profile README | Shell | 2026-07-25 | 0 |
 | [skills-marketplace](https://github.com/Zeev-L/skills-marketplace) | Personal Claude Code skill marketplace — 221 skills across 18 plugins. Browse the catalog → https://zeev-l.github.io/playground/ | Python | 2026-07-23 | 0 |
 | [marketingskills](https://github.com/Zeev-L/marketingskills) | Corey Haines' SaaS marketing skills (mirror of coreyhaines31/marketingskills.git for my Claude Code marketplace) | JavaScript | 2026-07-23 | 0 |
 | [my-toolbox](https://github.com/Zeev-L/my-toolbox) | Bilingual (HE/EN) landing page for the tools I install + a live view of my GitHub repos. → https://zeev-l.github.io/my-toolbox/ | HTML | 2026-07-22 | 0 |
