@@ -14,11 +14,11 @@ skills/marketplaces, and PM workflows. I like turning rough ideas into working t
 
 <!-- REPOS:START -->
 
-**26 public repositories** · sorted by latest activity · updated automatically
+**27 public repositories** · sorted by latest activity · updated automatically
 
 | Repo | What it is | Lang | Updated | ⭐ |
 |------|------------|------|---------|----|
-| [Zeev-L](https://github.com/Zeev-L/Zeev-L) | Profile README | Shell | 2026-08-01 | 0 |
+| [Zeev-L](https://github.com/Zeev-L/Zeev-L) | Profile README | Shell | 2026-08-02 | 0 |
 | [learning-os](https://github.com/Zeev-L/learning-os) | מערכת למידה מקצועית אישית — Learning OS | JavaScript | 2026-07-28 | 0 |
 | [skills-marketplace](https://github.com/Zeev-L/skills-marketplace) | Personal Claude Code skill marketplace — 221 skills across 18 plugins. Browse the catalog → https://zeev-l.github.io/playground/ | Python | 2026-07-28 | 0 |
 | [marketingskills](https://github.com/Zeev-L/marketingskills) | Corey Haines' SaaS marketing skills (mirror of coreyhaines31/marketingskills.git for my Claude Code marketplace) | JavaScript | 2026-07-28 | 0 |
@@ -39,6 +39,7 @@ skills/marketplaces, and PM workflows. I like turning rough ideas into working t
 | [omri-a.-cc-stuff](https://github.com/Zeev-L/omri-a.-cc-stuff) | Omri Ariav's Claude Code commands & utilities (mirror for my Claude Code marketplace). | Python | 2026-06-25 | 0 |
 | [yan-yanko-rainman](https://github.com/Zeev-L/yan-yanko-rainman) | Rainman — local, zero-token, context-aware project memory for AI coding tools (MCP + Claude Code hooks). | Python | 2026-06-25 | 0 |
 | [lemonade-complexity-analyzer](https://github.com/Zeev-L/lemonade-complexity-analyzer) | CLI that uses LLMs to score the complexity of GitHub pull requests — fairer engineering-velocity signal than lines of code. | Python | 2026-06-25 | 0 |
+| [sharedeck-oss](https://github.com/Zeev-L/sharedeck-oss) | Share HTML presentations with comments anchored to selected text — threads, @-mentions with email, versioned decks. Self-hostable (Postgres + SMTP + Node). | TypeScript | 2026-08-02 | 0 |
 | [awesome-pm-skills](https://github.com/Zeev-L/awesome-pm-skills) | AI-powered PM skills from Lenny's Podcast (mirror of menkesu/awesome-pm-skills.git for my Claude Code marketplace) | — | 2026-06-22 | 0 |
 | [pm-skills](https://github.com/Zeev-L/pm-skills) | Paweł Huryn's PM skills monorepo (mirror of phuryn/pm-skills.git for my Claude Code marketplace) | — | 2026-06-22 | 0 |
 | [iran-attack-prep](https://github.com/Zeev-L/iran-attack-prep) | Bilingual (Hebrew/English) home-front readiness helper for missile/rocket alerts in Israel, grounded in official Home Front Command guidance. | — | 2026-06-22 | 0 |
