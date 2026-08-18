@@ -18,7 +18,7 @@ skills/marketplaces, and PM workflows. I like turning rough ideas into working t
 
 | Repo | What it is | Lang | Updated | ⭐ |
 |------|------------|------|---------|----|
-| [Zeev-L](https://github.com/Zeev-L/Zeev-L) | Profile README | Shell | 2026-08-16 | 0 |
+| [Zeev-L](https://github.com/Zeev-L/Zeev-L) | Profile README | Shell | 2026-08-17 | 0 |
 | [the-mic](https://github.com/Zeev-L/the-mic) | Personal automation scripts — Gmail→Sheets task manager | HTML | 2026-08-12 | 1 |
 | [learning-os](https://github.com/Zeev-L/learning-os) | מערכת למידה מקצועית אישית — Learning OS | JavaScript | 2026-07-28 | 0 |
 | [skills-marketplace](https://github.com/Zeev-L/skills-marketplace) | Personal Claude Code skill marketplace — 221 skills across 18 plugins. Browse the catalog → https://zeev-l.github.io/playground/ | Python | 2026-07-28 | 0 |
