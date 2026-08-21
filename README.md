@@ -18,11 +18,11 @@ skills/marketplaces, and PM workflows. I like turning rough ideas into working t
 
 | Repo | What it is | Lang | Updated | ⭐ |
 |------|------------|------|---------|----|
-| [Zeev-L](https://github.com/Zeev-L/Zeev-L) | Profile README | Shell | 2026-08-19 | 0 |
+| [marketingskills](https://github.com/Zeev-L/marketingskills) | Corey Haines' SaaS marketing skills (mirror of coreyhaines31/marketingskills.git for my Claude Code marketplace) | JavaScript | 2026-08-20 | 0 |
+| [Zeev-L](https://github.com/Zeev-L/Zeev-L) | Profile README | Shell | 2026-08-20 | 0 |
 | [the-mic](https://github.com/Zeev-L/the-mic) | Personal automation scripts — Gmail→Sheets task manager | HTML | 2026-08-12 | 1 |
 | [learning-os](https://github.com/Zeev-L/learning-os) | מערכת למידה מקצועית אישית — Learning OS | JavaScript | 2026-07-28 | 0 |
 | [skills-marketplace](https://github.com/Zeev-L/skills-marketplace) | Personal Claude Code skill marketplace — 221 skills across 18 plugins. Browse the catalog → https://zeev-l.github.io/playground/ | Python | 2026-07-28 | 0 |
-| [marketingskills](https://github.com/Zeev-L/marketingskills) | Corey Haines' SaaS marketing skills (mirror of coreyhaines31/marketingskills.git for my Claude Code marketplace) | JavaScript | 2026-07-28 | 0 |
 | [my-toolbox](https://github.com/Zeev-L/my-toolbox) | Bilingual (HE/EN) landing page for the tools I install + a live view of my GitHub repos. → https://zeev-l.github.io/my-toolbox/ | HTML | 2026-07-26 | 0 |
 | [news-ticker](https://github.com/Zeev-L/news-ticker) | macOS breaking-news ticker — translucent, click-through, draggable bar streaming Israeli news RSS | JavaScript | 2026-07-22 | 0 |
 | [focus-timer](https://github.com/Zeev-L/focus-timer) | A small floating focus-timer disc for macOS — glassy, always-on-top, warms in color and counts overtime when you drift past your block. | JavaScript | 2026-07-21 | 0 |
