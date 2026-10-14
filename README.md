@@ -18,7 +18,7 @@ skills/marketplaces, and PM workflows. I like turning rough ideas into working t
 
 | Repo | What it is | Lang | Updated | ⭐ |
 |------|------------|------|---------|----|
-| [Zeev-L](https://github.com/Zeev-L/Zeev-L) | Profile README | Shell | 2026-10-12 | 0 |
+| [Zeev-L](https://github.com/Zeev-L/Zeev-L) | Profile README | Shell | 2026-10-13 | 0 |
 | [marketingskills](https://github.com/Zeev-L/marketingskills) | Corey Haines' SaaS marketing skills (mirror of coreyhaines31/marketingskills.git for my Claude Code marketplace) | JavaScript | 2026-08-22 | 0 |
 | [the-mic](https://github.com/Zeev-L/the-mic) | Personal automation scripts — Gmail→Sheets task manager | HTML | 2026-08-12 | 1 |
 | [learning-os](https://github.com/Zeev-L/learning-os) | מערכת למידה מקצועית אישית — Learning OS | JavaScript | 2026-07-28 | 0 |
@@ -43,7 +43,7 @@ skills/marketplaces, and PM workflows. I like turning rough ideas into working t
 | [awesome-pm-skills](https://github.com/Zeev-L/awesome-pm-skills) | AI-powered PM skills from Lenny's Podcast (mirror of menkesu/awesome-pm-skills.git for my Claude Code marketplace) | — | 2026-06-22 | 0 |
 | [pm-skills](https://github.com/Zeev-L/pm-skills) | Paweł Huryn's PM skills monorepo (mirror of phuryn/pm-skills.git for my Claude Code marketplace) | — | 2026-06-22 | 0 |
 | [iran-attack-prep](https://github.com/Zeev-L/iran-attack-prep) | Bilingual (Hebrew/English) home-front readiness helper for missile/rocket alerts in Israel, grounded in official Home Front Command guidance. | — | 2026-06-22 | 0 |
-| [addyosmani-agent-skills](https://github.com/Zeev-L/addyosmani-agent-skills) | Addy Osmani's production-grade engineering skills for AI coding agents (mirror for my Claude Code marketplace). | Shell | 2026-06-22 | 0 |
+| [addyosmani-agent-skills](https://github.com/Zeev-L/addyosmani-agent-skills) | Addy Osmani's production-grade engineering skills for AI coding agents (mirror for my Claude Code marketplace). | Shell | 2026-10-14 | 1 |
 | [gstack](https://github.com/Zeev-L/gstack) | Garry Tan's engineering skills (ideation to ship) (mirror of garrytan/gstack.git for my Claude Code marketplace) | TypeScript | 2026-07-12 | 1 |
 
 <!-- REPOS:END -->
